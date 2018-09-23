@@ -1,5 +1,5 @@
-# whoami
+whoami
 
-# date
+date
 
-# df
+df

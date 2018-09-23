@@ -1,7 +1,7 @@
-# ps
+ps
 
-# hostname
+hostname
 
-# cal
+cal
 
-# bash movie.sh
+bash movie.sh

@@ -1,5 +1,5 @@
-# date 
+date 
 
-# hostname
+hostname
 
-# whoami
+whoami

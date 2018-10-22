@@ -14,7 +14,7 @@ mkdir route
 
 cd /
 
-cd or cd ~
+cd ~
 
 cd route
 
@@ -23,3 +23,6 @@ cd ~/route
 echo ~
 
 cd /
+
+cd /home/britanozovial/route
+
